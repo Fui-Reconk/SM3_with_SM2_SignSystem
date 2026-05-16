@@ -1,6 +1,2 @@
-.gitignore
-.claude/settings.local.json
-src/__pycache__/__init__.cpython-310.pyc
-src/__pycache__/gui.cpython-310.pyc
-src/__pycache__/sm2.cpython-310.pyc
-src/__pycache__/sm3.cpython-310.pyc
+src/__pycache__/*
+.claude/*
